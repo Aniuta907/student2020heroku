@@ -1,0 +1,14 @@
+{
+  "name": "final001",
+  "version": "1.0.1",
+  "engines": {
+    "node": "10.19.0"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/student2020heroku/final-001.git",
+  "author": "student2020heroku",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
